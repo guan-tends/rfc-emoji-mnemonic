@@ -209,7 +209,7 @@ This document makes no requests of IANA. Future versions may register symbol set
 
 - [RFC2119] Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels", BCP 14, RFC 2119, March 1997.
 - [SHA3] NIST FIPS 202, "SHA-3 Standard: Permutation-Based Hash and Extendable-Output Functions", August 2015.
-- [UNICODE] The Unicode Consortium, "The Unicode Standard, Version 15.0", 2023.
+- [UNICODE] The Unicode Consortium, "The Unicode Standard, Version 15.0", September 2022.
 
 ### 9.2 Informative References
 
@@ -230,6 +230,6 @@ With acknowledgment to Freeman King, who posed the challenge that this specifica
 ## Appendix A: Reference Implementation
 
 Reference implementation available in TypeScript:
-https://github.com/guan-tends/passgen/blob/main/src/generateEmojiPhrase.ts
+https://github.com/guan-tends/passgen/blob/main/passgen.js (function generateEmojiPhrase)
 
 The reference implementation MUST be considered authoritative for any ambiguity in this specification.
